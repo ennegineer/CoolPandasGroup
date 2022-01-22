@@ -16,6 +16,10 @@ Project requirements:
  * Create a summary of major findings. Include heading for each question
 
 
+Project proposal:
+ * use Bureau of Economic Analysis API (documentation: https://apps.bea.gov/API/bea_web_service_api_user_guide.htm)
+ * Compare GDP data with Bitcoin data
 
+ * individual tasks: come up with data questions by Monday
 
 

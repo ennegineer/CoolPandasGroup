@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-# Ignore checkpoints
+# Ignore checkpoints and mac files
 .ipynb_checkpoints
+.DS_Store
 
 # API keys
 config.py
