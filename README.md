@@ -29,10 +29,11 @@
  These findings will be put into a final report with visualizations to aid the government in assessing what they can do to potentially lower crime rates.
  
 
- ### Datasets to be used
+ ### Datasets used for analysis
 
  * FBI Crime Data (documentation: https://crime-data-explorer.fr.cloud.gov/pages/docApi)
  * Compare with United States Census Bureau data
+ * College completion rates sourced from https://data.world/databeats/college-completion
 
 
  ### Research questions to answer
