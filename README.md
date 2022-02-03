@@ -7,11 +7,12 @@
  - Luan
  - Tracie 
 
-## Reading our code
- * APISetup.ipynb - this file displays the code written to loop over the FBI crime data and merge with Census data. The data is exported to .csv from this notebook to the Data folder.
- * CrimeRateVsCensusDemographics.ipynb - this file is the creation of graphs on the crime count vs. population, crime rate per state, and crime rate versus the following: income, poverty, unemployment, education, and veteran rate.
- * Luan.ipynb - this file contains links to sources and definitions used within the project. This file contains graphs comparing thefts per district within Orange County to each district's median age.
- * (Tracie's file) - this file introduces additional data sources used to compare crime rate per state to level of education and graduation rates.
+## Navigating our project
+
+ * **APISetup.ipynb** - this file displays the code written to loop over the FBI crime data and merge with Census data. The data is exported to .csv from this notebook to the Data folder.
+ * **CrimeRateVsCensusDemographics.ipynb** - this file is the creation of graphs on the crime count vs. population, crime rate per state, and crime rate versus the following: income, poverty, unemployment, education, and veteran rate.
+ * **Luan.ipynb** - this file contains links to sources and definitions used within the project. This file contains graphs comparing thefts per district within Orange County to each district's median age.
+ * **Tracie_crime_edu_analysis.ipynb** - this file introduces additional data sources used to compare crime rate per state to level of education and graduation rates.
 
 ## Project requirements
 
@@ -38,8 +39,8 @@
  ### Datasets used for analysis
 
  * FBI Crime Data (documentation: https://crime-data-explorer.fr.cloud.gov/pages/docApi)
- * Compare with United States Census Bureau data
- * College completion rates sourced from https://data.world/databeats/college-completion
+ * United States Census Bureau data
+ * College completion rates (sourced from https://data.world/databeats/college-completion)
 
 
  ### Research questions to answer
